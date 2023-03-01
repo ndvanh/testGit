@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-fffhọ tên
-=======
-fffhọ tên
-vanh1
-vanh2
-vanh3
-vanh4
->>>>>>> f07c75e (tôi test gộp 3 4)
+vanh5
+
